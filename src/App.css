@@ -1,0 +1,36 @@
+html {
+    background-color: #414EED;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 16px;
+    margin-top: 4px;
+}
+
+.header img {
+    height: 24px;
+}
+
+.hero-section {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    padding-bottom: 28px;
+    padding: 16px;
+}
+
+button {
+    max-width: 220px;
+    height: 42px;
+    border-radius: 12px;
+    margin-bottom: 24px;
+}
